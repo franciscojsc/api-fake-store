@@ -1,0 +1,377 @@
+{
+    "company": {
+        "name": "Grady Group"
+    },
+    "store": [
+        {
+            "id": 1,
+            "name": "VonRueden-Smitham"
+        },
+        {
+            "id": 2,
+            "name": "Marquardt-Bins"
+        },
+        {
+            "id": 3,
+            "name": "Yundt-Larkin"
+        }
+    ],
+    "employee": [
+        {
+            "id": 1,
+            "name": "Josselyn Soutter",
+            "registration": "09-0153743",
+            "email": "jsoutter0@issuu.com",
+            "genre": "Female",
+            "store": 1
+        },
+        {
+            "id": 2,
+            "name": "Allegra Wenham",
+            "registration": "72-3110248",
+            "email": "awenham1@bloglines.com",
+            "genre": "Female",
+            "store": 2
+        },
+        {
+            "id": 3,
+            "name": "Veronique Slyne",
+            "registration": "77-0820140",
+            "email": "vslyne2@bandcamp.com",
+            "genre": "Female",
+            "store": 3
+        },
+        {
+            "id": 4,
+            "name": "Audry Veck",
+            "registration": "03-1267358",
+            "email": "aveck3@gizmodo.com",
+            "genre": "Female",
+            "store": 1
+        },
+        {
+            "id": 5,
+            "name": "Vanya Fendlen",
+            "registration": "86-1737335",
+            "email": "vfendlen4@washingtonpost.com",
+            "genre": "Female",
+            "store": 2
+        },
+        {
+            "id": 6,
+            "name": "Berni Videan",
+            "registration": "91-5501324",
+            "email": "bvidean5@thetimes.co.uk",
+            "genre": "Female",
+            "store": 3
+        },
+        {
+            "id": 7,
+            "name": "Paco Guiducci",
+            "registration": "11-1489499",
+            "email": "pguiducci6@t.co",
+            "genre": "Male",
+            "store": 1
+        },
+        {
+            "id": 8,
+            "name": "Dirk Bromehed",
+            "registration": "45-4485797",
+            "email": "dbromehed7@pen.io",
+            "genre": "Male",
+            "store": 2
+        },
+        {
+            "id": 9,
+            "name": "Kakalina Matyushkin",
+            "registration": "36-2300446",
+            "email": "kmatyushkin8@google.pl",
+            "genre": "Female",
+            "store": 3
+        },
+        {
+            "id": 10,
+            "name": "Darill Pieroni",
+            "registration": "15-2994252",
+            "email": "dpieroni9@nbcnews.com",
+            "genre": "Male",
+            "store": 1
+        },
+        {
+            "id": 11,
+            "name": "Waldon Christofor",
+            "registration": "43-8991348",
+            "email": "wchristofora@cbc.ca",
+            "genre": "Male",
+            "store": 2
+        },
+        {
+            "id": 12,
+            "name": "Val Redholls",
+            "registration": "42-1152763",
+            "email": "vredhollsb@people.com.cn",
+            "genre": "Male",
+            "store": 3
+        },
+        {
+            "id": 13,
+            "name": "Olwen Crosby",
+            "registration": "83-9272728",
+            "email": "ocrosbyc@ezinearticles.com",
+            "genre": "Female",
+            "store": 1
+        },
+        {
+            "id": 14,
+            "name": "Herta Bowerbank",
+            "registration": "49-9127931",
+            "email": "hbowerbankd@i2i.jp",
+            "genre": "Female",
+            "store": 2
+        },
+        {
+            "id": 15,
+            "name": "Olag Saunderson",
+            "registration": "65-5959821",
+            "email": "osaundersone@paginegialle.it",
+            "genre": "Male",
+            "store": 3
+        },
+        {
+            "id": 16,
+            "name": "Glendon Grammer",
+            "registration": "99-9648365",
+            "email": "ggrammerf@furl.net",
+            "genre": "Male",
+            "store": 1
+        },
+        {
+            "id": 17,
+            "name": "Harrie Olenchikov",
+            "registration": "37-8451655",
+            "email": "holenchikovg@cafepress.com",
+            "genre": "Female",
+            "store": 2
+        },
+        {
+            "id": 18,
+            "name": "Theodore Philot",
+            "registration": "27-2397672",
+            "email": "tphiloth@ustream.tv",
+            "genre": "Male",
+            "store": 3
+        }
+    ],
+    "product": [
+        {
+            "id": 1,
+            "name": "Flour Dark Rye",
+            "price": "$62.86",
+            "amount": 43,
+            "store": 1
+        },
+        {
+            "id": 2,
+            "name": "Club Soda - Schweppes, 355 Ml",
+            "price": "$71.94",
+            "amount": 67,
+            "store": 2
+        },
+        {
+            "id": 3,
+            "name": "Muffin Hinge 117n",
+            "price": "$11.55",
+            "amount": 81,
+            "store": 3
+        },
+        {
+            "id": 4,
+            "name": "Horseradish Root",
+            "price": "$65.49",
+            "amount": 63,
+            "store": 1
+        },
+        {
+            "id": 5,
+            "name": "Cheese - Parmesan Grated",
+            "price": "$57.27",
+            "amount": 32,
+            "store": 2
+        },
+        {
+            "id": 6,
+            "name": "Wine - Port Late Bottled Vintage",
+            "price": "$6.58",
+            "amount": 18,
+            "store": 3
+        },
+        {
+            "id": 7,
+            "name": "Wine - Red, Black Opal Shiraz",
+            "price": "$64.15",
+            "amount": 48,
+            "store": 1
+        },
+        {
+            "id": 8,
+            "name": "Scrubbie - Scotchbrite Hand Pad",
+            "price": "$81.08",
+            "amount": 21,
+            "store": 2
+        },
+        {
+            "id": 9,
+            "name": "Veal - Leg, Provimi - 50 Lb Max",
+            "price": "$6.81",
+            "amount": 64,
+            "store": 3
+        },
+        {
+            "id": 10,
+            "name": "Container - Hngd Cll Blk 7x7x3",
+            "price": "$22.35",
+            "amount": 35,
+            "store": 1
+        },
+        {
+            "id": 11,
+            "name": "Arrowroot",
+            "price": "$13.84",
+            "amount": 3,
+            "store": 2
+        },
+        {
+            "id": 12,
+            "name": "V8 - Tropical Blend",
+            "price": "$87.72",
+            "amount": 67,
+            "store": 3
+        },
+        {
+            "id": 13,
+            "name": "Jameson - Irish Whiskey",
+            "price": "$93.20",
+            "amount": 85,
+            "store": 1
+        },
+        {
+            "id": 14,
+            "name": "Bagel - Whole White Sesame",
+            "price": "$14.30",
+            "amount": 37,
+            "store": 2
+        },
+        {
+            "id": 15,
+            "name": "Russian Prince",
+            "price": "$17.26",
+            "amount": 95,
+            "store": 3
+        },
+        {
+            "id": 16,
+            "name": "Greens Mustard",
+            "price": "$0.62",
+            "amount": 99,
+            "store": 1
+        },
+        {
+            "id": 17,
+            "name": "Bread Roll Foccacia",
+            "price": "$53.96",
+            "amount": 41,
+            "store": 2
+        },
+        {
+            "id": 18,
+            "name": "Extract - Rum",
+            "price": "$18.26",
+            "amount": 37,
+            "store": 3
+        },
+        {
+            "id": 19,
+            "name": "Beans - Wax",
+            "price": "$74.36",
+            "amount": 100,
+            "store": 1
+        },
+        {
+            "id": 20,
+            "name": "Tortillas - Flour, 12",
+            "price": "$47.39",
+            "amount": 14,
+            "store": 2
+        },
+        {
+            "id": 21,
+            "name": "Dip - Tapenade",
+            "price": "$41.50",
+            "amount": 45,
+            "store": 3
+        },
+        {
+            "id": 22,
+            "name": "Duck - Legs",
+            "price": "$12.37",
+            "amount": 25,
+            "store": 1
+        },
+        {
+            "id": 23,
+            "name": "Stock - Beef, White",
+            "price": "$86.28",
+            "amount": 70,
+            "store": 2
+        },
+        {
+            "id": 24,
+            "name": "Vegetable - Base",
+            "price": "$79.99",
+            "amount": 80,
+            "store": 3
+        },
+        {
+            "id": 25,
+            "name": "Bagel - Whole White Sesame",
+            "price": "$28.97",
+            "amount": 91,
+            "store": 1
+        },
+        {
+            "id": 26,
+            "name": "Wine - Red, Harrow Estates, Cab",
+            "price": "$26.46",
+            "amount": 78,
+            "store": 2
+        },
+        {
+            "id": 27,
+            "name": "Bread - Kimel Stick Poly",
+            "price": "$99.99",
+            "amount": 85,
+            "store": 3
+        },
+        {
+            "id": 28,
+            "name": "Tomatoes - Yellow Hot House",
+            "price": "$56.03",
+            "amount": 30,
+            "store": 1
+        },
+        {
+            "id": 29,
+            "name": "Juice - Orange, 341 Ml",
+            "price": "$63.42",
+            "amount": 48,
+            "store": 2
+        },
+        {
+            "id": 30,
+            "name": "Beef - Chuck, Boneless",
+            "price": "$20.88",
+            "amount": 25,
+            "store": 3
+        }
+    ]
+}
